@@ -4,8 +4,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class HomeWork4 {
-    private static final int SIZE_X = 4;
-    private static final int SIZE_Y = 4;
+    private static final int SIZE_X = 9;
+    private static final int SIZE_Y = 9;
     private static final char PLAYER_DOT = 'X';
     private static final char AI_DOT = 'O';
     private static final char EMPTY_DOT = '.';
